@@ -1,1 +1,1 @@
-The following Repository contains porject based on Logistic regression model
+# The following Repository contains projects that are based on Classification problems
